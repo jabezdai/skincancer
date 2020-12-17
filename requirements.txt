@@ -28,7 +28,7 @@ scikit-learn==0.19.1
 scipy==1.4.1
 snowballstemmer==2.0.0
 sortedcontainers==2.2.2
-tensorboard==2.2.2
+tensorboard==2.2.2a0
 tensorboard-plugin-wit==1.7.0
 tensorflow==2.0.0
 tensorflow-estimator==2.2.0
