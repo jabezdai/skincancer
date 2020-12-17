@@ -1,7 +1,7 @@
 Flask==1.1.2
 Werkzeug
 gunicorn==19.7.1
-Keras==2.4.3
+Keras==2.3.1
 Keras-Preprocessing==1.1.2
 numpy==1.19.2
 #opencv-python==4.4.0.44
@@ -28,10 +28,10 @@ scikit-learn==0.19.1
 scipy==1.4.1
 snowballstemmer==2.0.0
 sortedcontainers==2.2.2
-tensorboard==2.2.2
+tensorboard==2.0.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==2.2.0a0
-tensorflow-estimator==2.2.0
+tensorflow==2.0.0a0
+tensorflow-estimator==2.0.0
 termcolor==1.1.0
 testpath==0.4.4
 
