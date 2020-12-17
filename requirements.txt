@@ -23,8 +23,6 @@ pyflakes==2.2.0
 pyparsing==2.4.7
 PySocks==1.7.1
 python-dateutil==2.8.1
-#scikit-image==0.13.1
-scikit-learn==0.19.1
 scipy==1.4.1
 snowballstemmer==2.0.0
 sortedcontainers==2.2.2
@@ -34,4 +32,6 @@ tensorflow==2.0.0a0
 tensorflow-estimator==2.0.0
 termcolor==1.1.0
 testpath==0.4.4
+scikit-image==0.13.1
+scikit-learn==0.19.1
 
